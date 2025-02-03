@@ -1,5 +1,7 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/fornamess/GG-mm2/refs/heads/main/ggmm2'))()
+
 💎
+
 MM2 AUTOFARM BEST SCRIPT AND TROLING
 
 
